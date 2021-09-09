@@ -1,0 +1,3 @@
+node_modules/
+perms*.set
+bin/__*.php
